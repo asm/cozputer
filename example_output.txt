@@ -1,0 +1,129 @@
+$ ./cozputer.py
+cozmo.general INFO     App connection established. sdk_version=1.2.0 cozmoclad_version=2.1.0 app_build_version=00002.00001.00000
+cozmo.general INFO     Found robot id=1
+cozmo.general INFO     Connected to Android device serial=XXX
+cozmo.general INFO     Robot id=1 serial=XXX initialized OK
+Set cubes and tap 3 times to continue (or fewer to run)...
+1 2 3
+Read bits: 0 - tap a cube to continue or wait to redo
+Set cubes and tap 3 times to continue...
+1 2 3
+Read bits: 2 - tap a cube to continue or wait to redo
+Set cubes and tap 3 times to continue...
+1 2 3
+Read bits: 0 - tap a cube to continue or wait to redo
+Read byte: 10
+Set cubes and tap 3 times to continue (or fewer to run)...
+1 2 3
+Read bits: 0 - tap a cube to continue or wait to redo
+Set cubes and tap 3 times to continue...
+1 2 3
+Read bits: 0 - tap a cube to continue or wait to redo
+Set cubes and tap 3 times to continue...
+1 2 3
+Read bits: 0 - tap a cube to continue or wait to redo
+Read byte: 0
+Set cubes and tap 3 times to continue (or fewer to run)...
+1 2 3
+Read bits: 7 - tap a cube to continue or wait to redo
+Set cubes and tap 3 times to continue...
+1 2 3
+Read bits: 2 - tap a cube to continue or wait to redo
+Set cubes and tap 3 times to continue...
+1 2 3
+Read bits: 0 - tap a cube to continue or wait to redo
+Read byte: 17
+Set cubes and tap 3 times to continue (or fewer to run)...
+1 2 3
+Read bits: 0 - tap a cube to continue or wait to redo
+Set cubes and tap 3 times to continue...
+1 2 3
+Read bits: 2 - tap a cube to continue or wait to redo
+Set cubes and tap 3 times to continue...
+1 2 3
+Read bits: 0 - tap a cube to continue or wait to redo
+Read byte: 10
+Set cubes and tap 3 times to continue (or fewer to run)...
+1 2 3
+Read bits: 1 - tap a cube to continue or wait to redo
+Set cubes and tap 3 times to continue...
+1 2 3
+Read bits: 0 - tap a cube to continue or wait to redo
+Set cubes and tap 3 times to continue...
+1 2 3
+Read bits: 0 - tap a cube to continue or wait to redo
+Read byte: 1
+Set cubes and tap 3 times to continue (or fewer to run)...
+1 2 3
+Read bits: 3 - tap a cube to continue or wait to redo
+Set cubes and tap 3 times to continue...
+1 2 3
+Read bits: 2 - tap a cube to continue or wait to redo
+Set cubes and tap 3 times to continue...
+1 2 3
+Read bits: 0 - tap a cube to continue or wait to redo
+Read byte: 13
+Set cubes and tap 3 times to continue (or fewer to run)...
+1 2 3
+Read bits: 1 - tap a cube to continue or wait to redo
+Set cubes and tap 3 times to continue...
+1 2 3
+Read bits: 2 - tap a cube to continue or wait to redo
+Set cubes and tap 3 times to continue...
+1 2 3
+Read bits: 0 - tap a cube to continue or wait to redo
+Read byte: 11
+Set cubes and tap 3 times to continue (or fewer to run)...
+1 2 3
+Read bits: 0 - tap a cube to continue or wait to redo
+Set cubes and tap 3 times to continue...
+1 2 3
+Read bits: 0 - tap a cube to continue or wait to redo
+Set cubes and tap 3 times to continue...
+1 2 3
+Read bits: 0 - tap a cube to continue or wait to redo
+Read byte: 0
+Set cubes and tap 3 times to continue (or fewer to run)...
+1 2 3
+Read bits: 1 - tap a cube to continue or wait to redo
+Set cubes and tap 3 times to continue...
+1 2 3
+Read bits: 0 - tap a cube to continue or wait to redo
+Set cubes and tap 3 times to continue...
+1 2 3
+Read bits: 0 - tap a cube to continue or wait to redo
+Read byte: 1
+Set cubes and tap 3 times to continue (or fewer to run)...
+1 2 3
+Read bits: 2 - tap a cube to continue or wait to redo
+Set cubes and tap 3 times to continue...
+1 2 3
+Read bits: 2 - tap a cube to continue or wait to redo
+Set cubes and tap 3 times to continue...
+1 2 3
+Read bits: 0 - tap a cube to continue or wait to redo
+Read byte: 12
+Set cubes and tap 3 times to continue (or fewer to run)...
+1 2 3
+Read bits: 0 - tap a cube to continue or wait to redo
+Set cubes and tap 3 times to continue...
+1 2 3
+Read bits: 0 - tap a cube to continue or wait to redo
+Set cubes and tap 3 times to continue...
+1 2 3
+Read bits: 0 - tap a cube to continue or wait to redo
+Read byte: 0
+Set cubes and tap 3 times to continue (or fewer to run)...
+1 2 3
+Read bits: 3 - tap a cube to continue or wait to redo
+Set cubes and tap 3 times to continue...
+1 2 3
+Read bits: 2 - tap a cube to continue or wait to redo
+Set cubes and tap 3 times to continue...
+1 2 3
+Read bits: 0 - tap a cube to continue or wait to redo
+Read byte: 13
+Set cubes and tap 3 times to continue (or fewer to run)...
+x x x
+cozmo.general INFO     Shutting down connection
+cozmo.general INFO     Android serial=XXX disconnected.
