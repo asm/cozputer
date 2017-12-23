@@ -1,8 +1,9 @@
 # Program Cozmo with his blocks
 
-This is a simple Cozmo program built with the Cozmo SDK.  See
-[this guide](http://cozmosdk.anki.com/docs/getstarted.html) if you need to set up
- your environment.
+This is a simple [Cozmo](https://www.anki.com/en-us/cozmo) program built with the
+[Cozmo SDK](http://cozmosdk.anki.com/docs/index.html).  See
+[this guide](http://cozmosdk.anki.com/docs/getstarted.html) if you need to set
+up your environment.
 
 Place Cozmo's blocks in front of him to program a very simple virtual machine.
 They should be about 5" in front of him and half an inch apart. For example, this
