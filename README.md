@@ -1,4 +1,4 @@
-#Program Cozmo with his blocks
+# Program Cozmo with his blocks
 
 This is a simple Cozmo program built with the Cozmo SDK.  See
 [this guide](http://cozmosdk.anki.com/docs/getstarted.html) if you need to set up
